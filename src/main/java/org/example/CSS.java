@@ -41,7 +41,6 @@ public class CSS {
         WebElement submitButton = driver.findElement(By.xpath("//*[@id='login']/button/i"));
         submitButton.click();
 
-
     }
 
     public static void candymapper(WebDriver driver){
